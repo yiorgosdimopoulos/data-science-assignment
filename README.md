@@ -81,4 +81,6 @@ Create your own branch for the project with the naming convention `feature-yourg
 - [Seaborn Documentation](https://seaborn.pydata.org/)
 - [Flask Documentation](https://flask.palletsprojects.com/)
 
+**Hint**: Put the dataset loading, visualization, training, metric evaluation, and storage in a separate file, and the web app that serves the metric in another file. This approach will help keep your project organized and maintainable.
+
 **Note**: This project requires a blend of data science, machine learning, and web development skills. It's a great opportunity to showcase your abilities or to learn and grow by tackling the challenges it presents.
