@@ -1,3 +1,5 @@
+![](Large.jpg)
+
 # Iris Classification Project
 
 ## Dataset Description
