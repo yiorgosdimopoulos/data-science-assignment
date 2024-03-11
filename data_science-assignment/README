@@ -1,0 +1,4 @@
+Contents:
+- File Iris Classification Project.ipynb contains the dataset loading, visualization, training, metric evaluation, and storage.
+- Folder IrisClassificationProject contains the file app.py, which is the web app that serves the metric, 
+  the report_data.csv that helds the metrics and an html template that the app uses.
